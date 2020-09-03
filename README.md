@@ -7,7 +7,7 @@ Trabalho Gerenciamento De Memoria
 - Jaime Mathias
 - Willy Pestana
 - Marcus Vinicius
-- Will
+- Willian Carlos
 
 ## LINGUAGENS E TECNOLOGIAS 
 - Linguagem C
